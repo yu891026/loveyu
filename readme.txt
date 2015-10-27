@@ -1,10 +1,1 @@
-kkkkkkkkkk
-kkkkkkkkk
-kkkkkkkk
-kkkkkkk
-kkkkkk
-kkkkk
-kkkk
-kkk
-kk
-k
+这是一个测试文档文件。
